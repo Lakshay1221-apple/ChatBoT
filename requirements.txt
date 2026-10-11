@@ -1,0 +1,31 @@
+# LangGraph orchestration
+langgraph
+langchain-core
+langchain-groq
+
+# Persistent graph checkpointing (PostgreSQL)
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+
+# Data validation and configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# API clients and search
+httpx
+tavily-python
+
+# Frontend
+streamlit
+
+# Observability and tracing
+langsmith
+
+# Testing
+pytest
+pytest-asyncio
+respx
+
+# Code quality
+ruff
