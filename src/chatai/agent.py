@@ -55,8 +55,6 @@ Rules:
 - Be clear, helpful, and concise.
 """
 
-
-
 def normalize_model_name(model_name: str | None) -> str:
     """
     Validate selected model from frontend.
